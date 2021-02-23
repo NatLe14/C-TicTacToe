@@ -1,0 +1,5 @@
+﻿  TicTacToeGame.cpp
+C:\Users\Nathan Le\source\repos\TicTacToeGame\TicTacToeGame.cpp(69,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Nathan Le\source\repos\TicTacToeGame\TicTacToeGame.cpp(196,10): warning C4101: 'confirmPlay': unreferenced local variable
+C:\Users\Nathan Le\source\repos\TicTacToeGame\TicTacToeGame.cpp(299,19): warning C4101: 'confirmPlay': unreferenced local variable
+  TicTacToeGame.vcxproj -> C:\Users\Nathan Le\source\repos\TicTacToeGame\Debug\TicTacToeGame.exe
